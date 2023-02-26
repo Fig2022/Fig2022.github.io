@@ -31,9 +31,9 @@ p {
 .page-body {
   font-family: didot, serif;
   font-size: x-large;
-  padding-top: 20px;
-  padding-left: 150px;
-  padding-right: 150px;
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 a:visited {

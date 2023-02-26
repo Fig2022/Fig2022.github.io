@@ -1,0 +1,19 @@
+{
+  "name": "george-ruth-sings",
+  "version": "1.0.0",
+  "description": "homepage for George Ruth",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "author": "Fig Fishkin",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
